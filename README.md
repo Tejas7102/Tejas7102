@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tejas7102
 - 👀 I’m interested in Web development and Software development 
 - 🌱 I’m currently learning Data structure and Algorithm 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tdchauhan07@gmail.com
 
 <!---
